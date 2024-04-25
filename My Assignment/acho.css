@@ -1,0 +1,18 @@
+nav {
+  color: blueviolet;
+  background-color: aqua;
+  position: fixed;
+  padding-bottom: 1px;
+  width: 100vw;
+}
+h4 {
+  padding-top: 90px;
+}
+button {
+  size: 40px;
+  width: 100px;
+  position: relative;
+  left: 1300px;
+  background-color: aqua;
+  color: white;
+}
